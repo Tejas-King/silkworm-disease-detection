@@ -1,0 +1,4 @@
+!conda install tensorflow
+enter cd comand first 
+enter ideal
+enter skilt
